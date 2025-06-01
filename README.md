@@ -1,14 +1,21 @@
 ## Hi, I'm Henry 
 
-**Program Manager in Artificial Intelligence | Data Scientist | AI Strategy & Governance Specialist**
+**Program Manager in Generative Artificial Intelligence | Data Scientist | AI Strategy & Governance Specialist**
 
-I'm an experienced AI leader with a background in data science, machine learning, artificial intelligence, and strategy. I help organizations harness the power of AI technologies to drive business transformation while ensuring responsible and ethical use.
+I'm passionate about enabling organisations to harness AI technologies responsibly, ethically, and effectively. With extensive experience in data science, machine learning, and AI strategy, I specialize in translating complex AI innovations into impactful real-world solutions.
 
-In my current role, I lead AI strategy and initiatives at the University of Sydney. We're working to transform Australia's oldest university, the **18th best** globally, **2nd in Australia**, to:
-- provide the best possible experience for 70,000 students,
-- enable our reseachers to solve the world's greatest problems, and
-- make it a better place to work for all of our 26,000 staff.
+Currently, I lead the the Generative AI program at the University of Sydney, Australia's oldest university and ranked **18th globally** and **2nd nationally**. I am the key contact for our executives on all things AI, and I lead the Generative AI Coordinating Group with 30 Directors and Senior Managers representing 300 professional staff from across the organisation who work to enable us to harness the immense opportunity of AI safely and responsibly. Together, my team and I work towards:
 
-So far we've done phenomenally, winning **AI University of the Year** from Future Campus and being recognised domestically and internationally as a leader in AI adoption. 
+- Enhancing educational experiences for over 70,000 students.
+- Empowering researchers tackling global challenges.
+- Enabling access to the best technologies, creating a better workplace for our 26,000 staff.
+- Ensuring compliance with our regulators, and protecting our people, data, and systems from risk.
 
-Before my current role, I did a PhD in Ecology where I honed my skills in using machine learning and statistics to parse noisy data and understand complex systems. After leaving academic research, I worked as a Data Scientist consulting to researchers and public sector, developing innovative solutions for clients from agriculture, geology, healthcare, and law enforcement just to name a few. I then led a team of Data Scientists and Software Engineers, developing AI products for researchers and public sector clients. Some of my favourite projects have included:
+Our team's dedication has earned us recognition as **AI University of the Year** from Future Campus, reinforcing our leadership in AI innovation both domestically and internationally.
+
+Previously, I earned a PhD in Ecology, mastering statistical modeling and machine learning techniques to decode complex, noisy ecological data. Transitioning from academia, I consulted as a Data Scientist, delivering innovative AI solutions across sectors including agriculture, geology, healthcare, and law enforcement. I then led a team of Data Scientists and Software Engineers, developing AI products for researchers and public sector clients. Some of my favourite projects have included:
+
+- aigis: Open-source toolkit for creating, annotating, training, and deploying geospatial computer vision datasets and models. Supports multimodal annotations, edge-ready deployment, postprocessing, and format transformation.
+
+- Policy Navigator: Enterprise-wide GenAI solution for policy Q&A and knowledge management at the University of Sydney, built from prototype to secure production deployment on Azure.
+
