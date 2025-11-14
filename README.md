@@ -1,6 +1,6 @@
 ## Hi, I'm Henry 
 
-**Program Manager in Generative Artificial Intelligence | Data Scientist | AI Strategy & Governance Specialist**
+**Program Manager in Generative Artificial Intelligence | Data Scientist | AI Strategy & Delivery Specialist**
 
 I'm passionate about enabling organisations to harness AI technologies responsibly, ethically, and effectively. With extensive experience in data science, machine learning, and AI strategy, I specialize in translating complex AI innovations into impactful real-world solutions.
 
